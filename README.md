@@ -14,6 +14,8 @@ A lightweight Unix shell written in C, supporting basic command execution, pipin
    git clone <repo_url>
    cd custom-shell
 2. Build the shell:
+   ```bash
    make
 3. Run the shell:
+   ```bash
    ./shell
