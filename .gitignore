@@ -1,0 +1,13 @@
+# Ignore compiled binaries
+shell
+
+# Ignore temporary files
+*.o
+*.out
+
+# Ignore editor/IDE-specific files
+*.swp
+*.swo
+*.log
+.idea/
+.vscode/
